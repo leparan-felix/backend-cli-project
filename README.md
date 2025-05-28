@@ -27,5 +27,5 @@ A basic command-line inventory management system built with Python and SQLite. T
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/simple-inventory-cli.git
-   cd simple-inventory-cli
+   git clone https://github.com/leparan-felix/backend-cli-project.git
+   cd inventory-management
